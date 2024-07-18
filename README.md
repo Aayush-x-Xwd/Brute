@@ -26,9 +26,9 @@ chmod +x install-sb.sh
 # for any os :
 * [socialbox](https://github.com/sax)
 # Contact
-* [Youtube](https://www.Youtube.com/@AAYUSH) - samseshtech
-* [Instagram](https://www.instagram.com/AAYUSH) - samseshtech
-* [Twitter](https://www.twitter.com/_AAYUSH) - _samsesh
+* [Youtube](https://www.Youtube.com/@AAYUSH) - AAYUSH
+* [Instagram](https://www.instagram.com/AAYUSH) - AAYUSH
+* [Twitter](https://www.twitter.com/_AAYUSH) - _AAYUSH
 * [Instagram](https://www.instagram.com/AAYUSH) - AAYUSH
 # Authors :
 * facebook  : AAYUSH XWD
